@@ -1,11 +1,13 @@
-# Vehicle Rental System API
-#Project Name**B6A2**
+# B6A2
+
 ## Links
 - **GitHub Repository:** https://github.com/imtiazsamir1/B6A2  
   <https://github.com/imtiazsamir1/B6A2>
 
 - **Live Demo (Vercel):** https://assignment2-mu-lime.vercel.app/  
   <https://assignment2-mu-lime.vercel.app/>
+
+#Features & Technology Stack.
 ## 1️⃣ Authentication & Authorization
 
 ### User Login
@@ -99,3 +101,24 @@
   "message": "Some message",
   "data": {...} // Nested vehicle/customer info if applicable
 }
+#Setup & Usage Instructions.
+## 🚀 Setup & Usage
+
+### 1️⃣ Prerequisites
+- Node.js (v18+)
+- npm or yarn
+- PostgreSQL
+
+### 2️⃣ Clone & Install
+```bash
+git clone <repo-url>
+cd <repo-folder>
+npm install
+# Live link
+## Links
+- **GitHub Repository:** https://github.com/imtiazsamir1/B6A2  
+  <https://github.com/imtiazsamir1/B6A2>
+
+- **Live Demo (Vercel):** https://assignment2-mu-lime.vercel.app/  
+  <https://assignment2-mu-lime.vercel.app/>
+
