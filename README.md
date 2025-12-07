@@ -1,6 +1,11 @@
 # Vehicle Rental System API
 #Project Name**B6A2**
-#Live Link **
+## Links
+- **GitHub Repository:** https://github.com/imtiazsamir1/B6A2  
+  <https://github.com/imtiazsamir1/B6A2>
+
+- **Live Demo (Vercel):** https://assignment2-mu-lime.vercel.app/  
+  <https://assignment2-mu-lime.vercel.app/>
 ## 1️⃣ Authentication & Authorization
 
 ### User Login
