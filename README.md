@@ -95,7 +95,7 @@
 
 - Consistent JSON response structure:
 
-```json
+json
 {
   "success": true,
   "message": "Some message",
@@ -110,7 +110,7 @@
 - PostgreSQL
 
 ### 2️⃣ Clone & Install
-```bash
+bash
 git clone <repo-url>
 cd <repo-folder>
 npm install
