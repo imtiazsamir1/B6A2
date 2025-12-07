@@ -8,6 +8,7 @@
   <https://assignment2-mu-lime.vercel.app/>
 
 #Features & Technology Stack.
+-Database **NeonDB**
 ## 1️⃣ Authentication & Authorization
 
 ### User Login
